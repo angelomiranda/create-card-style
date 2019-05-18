@@ -1,0 +1,12 @@
+.cta {
+  display: flex;
+  justify-content: space-between;
+  color: var(--blue-default);
+  background-color: #ffffff;
+  text-align: center;
+  padding: 20px;
+}
+
+.cta-icon {
+  font-size: 20px;
+}
